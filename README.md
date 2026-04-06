@@ -1,5 +1,3 @@
-Gemini đã nói
-Bản tiếng Anh sẽ giúp Portfolio của bạn trông chuyên nghiệp và "quốc tế" hơn rất nhiều, đặc biệt là khi làm việc trong ngành Dữ liệu. Bạn hãy thay thế nội dung file README.md bằng đoạn dưới đây nhé:
 
 🏥 Medical Appointment No-Show Analysis on Google Cloud (BigQuery)
 An end-to-end data analytics project investigating over 110,000 medical records to identify key factors influencing patient no-show behavior and optimizing clinic operations.
